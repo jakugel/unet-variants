@@ -1,7 +1,7 @@
 # unet-variants
 Tensorflow 2 code for several U-Net variants to perform direct comparisons including base, attention, dense, ++, squeeze-excite, inception, residual, recurrent-residual
 
-The code here is inspired by and builds of that in a number of previous implementations:
+The code here is inspired by and builds off a number of previous implementations:
 
 - zhixuhao, Implementation of deep learning framework -- Unet, using Keras, https://github.com/zhixuhao/unet (2019).
 - clguo, Fully Dense UNet implementation in medical image segmentation, https://github.com/clguo/Dense_Unet_Keras (2019).
